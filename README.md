@@ -45,8 +45,5 @@ Um sistema desenvolvido em **PHP + MySQL** para gerenciar clientes, produtos e p
 - **PHP** (com PDO para banco de dados)  
 - **MySQL**  
 - **HTML, CSS, JavaScript** (frontend básico)  
-- **Ajax ou WebSockets** (atualização de status em tempo real)  
+- **Ajax ou WebSockets** (atualização de status em tempo real)
 
----
-
-## 📂 Estrutura do Projeto (sugestão)
