@@ -1,6 +1,7 @@
 # 🍕 Sistema de Pizzaria em PHP
 
 Um sistema desenvolvido em **PHP + MySQL** para gerenciar clientes, produtos e pedidos de uma pizzaria, com interface administrativa e acompanhamento de status em tempo real.
+Esse é meu primeiro projeto.
 
 ---
 
